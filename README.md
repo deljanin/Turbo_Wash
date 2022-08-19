@@ -1,0 +1,1 @@
+Turbo Wash is a desktop application that helps the car washing company with their car washing and cleaning appointments. Used C# with Windows forms and SQL with the Microsoft SQL Server. This was my first project.
