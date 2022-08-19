@@ -1,0 +1,99 @@
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe.config
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.pdb
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csprojResolveAssemblyReference.cache
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Properties.Resources.resources
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.GenerateResource.cache
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.CoreCompileInputs.cache
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.exe
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.pdb
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Menu.resources
+C:\Users\PENO\Desktop\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Nov_Termin.resources
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe.config
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.pdb
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csprojAssemblyReference.cache
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Menu.resources
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Nov_Termin.resources
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Properties.Resources.resources
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.GenerateResource.cache
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.CoreCompileInputs.cache
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.exe
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.pdb
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe.config
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.pdb
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Menu.resources
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Nov_Termin.resources
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Properties.Resources.resources
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.GenerateResource.cache
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.CoreCompileInputs.cache
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.exe
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.pdb
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Login.resources
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Moji_Termini.resources
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Registracija.resources
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\databaza.mdf
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\databaza_log.ldf
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe.config
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.pdb
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csprojAssemblyReference.cache
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Login.resources
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Menu.resources
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Moji_Termini.resources
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Nov_Termin.resources
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Registracija.resources
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Properties.Resources.resources
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.GenerateResource.cache
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.CoreCompileInputs.cache
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.exe
+E:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.pdb
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csprojResolveAssemblyReference.cache
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\Google.Protobuf.dll
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\MySql.Data.xml
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.CopyComplete
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\Google.Protobuf.dll
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\MySql.Data.xml
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Cenovnik.resources
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Login.resources
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Moji_Termini.resources
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Registracija.resources
+D:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.CopyComplete
+F:\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Cenovnik.resources
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe.config
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.pdb
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\Google.Protobuf.dll
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\MySql.Data.xml
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csprojAssemblyReference.cache
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Cenovnik.resources
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Login.resources
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Menu.resources
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Moji_Termini.resources
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Nov_Termin.resources
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Registracija.resources
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.CopyComplete
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.exe
+C:\Users\Ucenik\Desktop\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.pdb
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe.config
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.exe
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\EP-Programirnaje-projekat - program.pdb
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\bin\Debug\MySql.Data.xml
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Cenovnik.resources
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Login.resources
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Menu.resources
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Moji_Termini.resources
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Nov_Termin.resources
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Registracija.resources
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Properties.Resources.resources
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.GenerateResource.cache
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.CoreCompileInputs.cache
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csproj.CopyComplete
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.exe
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.pdb
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP-Programirnaje-projekat - program.csprojResolveAssemblyReference.cache
+F:\sola\Program drugo polugodje\EP-Programirnaje-projekat - program\EP-Programirnaje-projekat - program\obj\Debug\EP_Programirnaje_projekat___program.Form_Info.resources
